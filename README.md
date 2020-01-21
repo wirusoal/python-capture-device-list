@@ -8,4 +8,11 @@ Creating DLL from CUDA using nvcc(or gcc)
 ```
 nvcc -o device.dll --shared device.cpp
 ```
+
+Run
+```
+python.exe test.py
+Select and enter camera id
+```
 ![Image](screenshot.PNG)
+
